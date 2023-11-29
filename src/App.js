@@ -27,7 +27,7 @@ function App() {
   }
   return (
     <div className="App">
-      <h1>Todo List App</h1>
+      <h1>Daily Assessment</h1>
       <input
       type="text"
       placeholder='Add an item...'
